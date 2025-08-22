@@ -8,4 +8,4 @@
 [![English](https://img.shields.io/badge/Language-English-blue)](https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/main/more-details/stupid/README)
 [![简体中文](https://img.shields.io/badge/语言-简体中文-red)](https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/main/more-details/stupid/README_zh.md)
 
-This section mainly records some of the overly foolish mistakes I have made.
+这里主要记录我所犯过的一些过于愚蠢的错误。

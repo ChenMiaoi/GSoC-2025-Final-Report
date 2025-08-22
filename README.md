@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/main/README.md">English</a> •
-  <a href="https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/README_zh.md">简体中文</a>
+  <a href="https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/main/README_zh.md">简体中文</a>
 </p>
 
 # GSoC-2025-Final-Report
 
 [![English](https://img.shields.io/badge/Language-English-blue)](https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/main/README)
-[![简体中文](https://img.shields.io/badge/语言-简体中文-red)](https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/README_zh.md)
+[![简体中文](https://img.shields.io/badge/语言-简体中文-red)](https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/main/README_zh.md)
 
 Everyone, this is the final report of the [GSoC2025 OpenRISC Linux Kernel Feature Develepment](https://summerofcode.withgoogle.com/programs/2025/projects/qYsJ8YEg) completed by student ChenMiao and mentor Shorne. First, I need to clarify the goals of this project and my completion status (it will be updated in real time as various patches are being submitted and awaiting community integration).
 

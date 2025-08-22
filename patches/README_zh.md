@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/main/more-details/patches/README">English</a> •
+  <a href="https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/main/more-details/patches/README.md">English</a> •
   <a href="https://github.com/ChenMiaoi/GSoC-2025-Final-Report/blob/main/more-details/patches/README_zh.md">简体中文</a>
 </p>
 

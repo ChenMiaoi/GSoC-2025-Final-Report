@@ -168,6 +168,16 @@ So far, the fastest OpenRISC development environment deployment is complete.
 
 Please refer to [how to test](./more-details/working/how_to_test.md) for testing instructions.
 
+## What Did I Do the Core Job
+
+To Be Done... 这里会讲解我所作工作的一些核心点以及为什么需要这样做。
+
+- [text patching](./more-details/working/text_patching.md)
+- [jump label](./more-details/working/jump_label.md)
+- [static ftrace](./more-details/working/static_ftrace.md)
+- [dynamic ftrace](./more-details/working/dynamic_ftrace.md)
+- [syscall tracing](./more-details/working/syscall_tracing.md)
+
 ## What Have I Done Wrong
 
 To Be Done...

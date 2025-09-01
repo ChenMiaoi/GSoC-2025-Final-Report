@@ -166,15 +166,7 @@ So far, the fastest OpenRISC development environment deployment is complete.
 
 ### Apply All Patches To Check Works
 
-After deploying the OpenRISC QEMU development environment, you can proceed with the verification work. The patches I submitted are located under the [patches](./patches/) directory. Apply these patches using the following commands:
-
-``` bash
-(work/linux)$ git am *.patch
-(or1k-utils)$ ./scripts/make-or1k-linux virt_defconfig
-(or1k-utils)$ ./scripts/make-or1k-linux
-```
-
-Unfortunately, I have not yet completed the testing for the patches. However, if the system boots normally, it indicates that the patches are functioning well. Further testing for the patches will be provided later.
+Please refer to [how to test](./more-details/working/how_to_test.md) for testing instructions.
 
 ## What Have I Done Wrong
 

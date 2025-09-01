@@ -166,15 +166,7 @@ Linux buildroot 6.16.0-12136-g51673daab9f4 #1 SMP Mon Aug 18 03:20:20 UTC 2025 o
 
 ### Apply All Patches To Check Works
 
-当你部署完OpenRISC QEMU开发环境后，就可以进行验证工作了。我所提交的patch位于`patches`下。通过如下命令应用这些patches：
-
-``` bash
-(work/linux)$ git am *.patch
-(or1k-utils)$ ./scripts/make-or1k-linux virt_defconfig
-(or1k-utils)$ ./scripts/make-or1k-linux
-```
-
-可惜的是，我当未完成关于patch的测试，因此能够正常启动说明patches运作良好，后续会提供关于patches的测试。
+请查看[how to test](./more-details/working/zh/how_to_test_zh.md)进行测试.
 
 ## What Did I Do the Core Job
 

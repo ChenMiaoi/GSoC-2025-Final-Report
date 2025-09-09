@@ -12,15 +12,19 @@ Everyone, this is the final report of the [GSoC2025 OpenRISC Linux Kernel Featur
 
 | Primary Project Goals | Secondary Project Goals | Completion Status |
 | :---: | :---: | :---: |
-| OpenRISC JumpLabel | \ | Completed [\[PATCH v3 0/2\] openrisc: Support fixmap and jump_label](https://lore.kernel.org/openrisc/20250814032717.785395-1-chenmiao.ku@gmail.com/T/#t) |
-|  |  | Historical Discussion Record 1.[\[PATCH 0/2\] Support fixmap and jump_label for openrisc](https://lore.kernel.org/openrisc/20250805084926.4125564-1-chenmiao.ku@gmail.com/T/#u) |
-|  |  | Historical Discussion Record 2.[\[PATCH v2 0/2\] Support fixmap and jump_label for openrisc](https://lore.kernel.org/openrisc/20250806020520.570988-1-chenmiao.ku@gmail.com/T/#t) |
-| | fixmap/text patching mechanism | Completed, see [\[PATCH v3 1/2\] openrisc: Add text patching API support](https://lore.kernel.org/openrisc/20250814032717.785395-2-chenmiao.ku@gmail.com/T/#u) |
-| | jump_label core implementation | Completed, see [\[PATCH v3 2/2\] openrisc: Add jump label support](https://lore.kernel.org/openrisc/20250814032717.785395-3-chenmiao.ku@gmail.com/T/#u) |
+| OpenRISC JumpLabel | \ | Completed <br> [\[PATCH v5 0/4\] openrisc: Support basic trace mechanism](https://lore.kernel.org/openrisc/20250905181258.9430-1-chenmiao.ku@gmail.com/T/#t) |
+|  |  | Historical Discussion Record 1 <br> [\[PATCH 0/2\] Support fixmap and jump_label for openrisc](https://lore.kernel.org/openrisc/20250805084926.4125564-1-chenmiao.ku@gmail.com/T/#u) |
+|  |  | Historical Discussion Record 2 <br> [\[PATCH v2 0/2\] Support fixmap and jump_label for openrisc](https://lore.kernel.org/openrisc/20250806020520.570988-1-chenmiao.ku@gmail.com/T/#t) |
+|  |  | Historical Discussion Record 3 <br> [\[PATCH v3 0/2\] openrisc: Support fixmap and jump_label](https://lore.kernel.org/openrisc/20250814032717.785395-1-chenmiao.ku@gmail.com/T/#t) |
+|  |  | Historical Discussion Record 4 <br> [\[PATCH v4 0/4\] openrisc: Support basic trace mechanism](https://lore.kernel.org/openrisc/CAKxVwgdGe59F=giPXsukmQDO=XY58BH2gAMCV6uCR=vmwkAyyQ@mail.gmail.com/T/#t) |
+| | fixmap/text patching mechanism | Completed <br> [\[PATCH v5 1/4\] openrisc: Add text patching API support](https://lore.kernel.org/openrisc/20250905181258.9430-2-chenmiao.ku@gmail.com/T/#u) |
+| | Add R_OR1K_32_PCREL relocation type | Completed <br> [\[PATCH v5 2/4\] openrisc: Add R_OR1K_32_PCREL relocation type module support](https://lore.kernel.org/openrisc/20250905181258.9430-3-chenmiao.ku@gmail.com/T/#u) |
+| | Regenerate defconfigs | Completed <br> [\[PATCH v5 3/4\] openrisc: Regenerate defconfigs](https://lore.kernel.org/openrisc/20250905181258.9430-4-chenmiao.ku@gmail.com/T/#u) |
+| | jump_label core implementation | Completed <br> [\[PATCH v5 4/4\] openrisc: Add jump label support](https://lore.kernel.org/openrisc/20250814032717.785395-3-chenmiao.ku@gmail.com/T/#u) |
 | OpenRISC Ftrace | \ | Not fully completed |
-| static ftrace | \ | Completed, see [PR not yet submitted](xxx) |
-| | basic static ftrace | Completed, see [PR not yet submitted](xxx) |
-| | static ftrace with graph | Completed, see [PR not yet submitted](xxx) |
+| static ftrace | \ | Completed <br> [\[PATCH 0/1\] Add the basic static ftrace support](https://lore.kernel.org/openrisc/20250909031248.591433-1-chenmiao.ku@gmail.com/T/#t) |
+| | basic static ftrace | Completed <br> [\[PATCH 0/1\] openrisc: Add the basic static ftrace support](https://lore.kernel.org/openrisc/20250909031248.591433-2-chenmiao.ku@gmail.com/T/#u) |
+| | static ftrace with graph | Completed <br> [\[PATCH 0/1\] openrisc: Add the basic static ftrace support](https://lore.kernel.org/openrisc/20250909031248.591433-2-chenmiao.ku@gmail.com/T/#u) |
 | dynamic ftrace | \ | Not completed |
 | | basic dynamic ftrace | Not completed |
 | | dynamic ftrace with graph | Not completed |
